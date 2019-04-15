@@ -1,0 +1,14 @@
+{
+  "name": "@ayakashi/get-node-selector",
+  "version": "1.0.0",
+  "description": "Internal package to get a css selector from a node",
+  "main": "lib/index.js",
+  "author": {
+    "name": "ayakashi.io",
+    "email": "hello@ayakashi.io"
+  },
+  "repository": {
+    "url": "https://github.com/ayakashi-io/get-node-selector"
+  },
+  "license": "MPL-2.0"
+}
